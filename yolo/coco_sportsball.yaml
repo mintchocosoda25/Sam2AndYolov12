@@ -1,0 +1,6 @@
+# coco_sportsball.yaml
+train: coco_sportsball/train2017_sportsball.txt
+val: coco_sportsball/val2017_sportsball.txt
+
+nc: 1
+names: ["sports ball"]
